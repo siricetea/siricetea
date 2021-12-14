@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @siricetea, german it-admin and part-time coder.
+- 👀 More scripting and less coding - more bugfixing and work-arounding
+- 🌱 I’m currently learning ... how coding works. But I already made "Hello World!" :)
